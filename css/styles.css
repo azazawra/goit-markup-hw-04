@@ -51,6 +51,10 @@ a {text-decoration: none;}
 .nav-item {
     position: relative;
 }
+
+
+
+
 .header-logo {
     margin-right: 76px;
     font-weight: 700;
@@ -60,6 +64,7 @@ a {text-decoration: none;}
     text-transform: uppercase;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
+    position: relative;
 }
 
 .logoheader-part {
