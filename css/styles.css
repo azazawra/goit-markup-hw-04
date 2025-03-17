@@ -215,6 +215,10 @@ margin-right:auto;}
     text-align: center;
 }
 
+.social-items{
+    display:flex;
+    align-items: center;
+}
 
 .team-title {
     margin-bottom: 72px; 
