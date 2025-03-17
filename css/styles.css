@@ -259,6 +259,13 @@ margin-right:auto;}
 .social-items{
     display:flex;
     align-items: center;
+    justify-content: center;
+    gap:24px;
+
+.icon-section-thee {
+    width: 16;
+    height: 16;
+}
 }
 .team-title {
     margin-bottom: 72px; 
