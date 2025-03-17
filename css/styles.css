@@ -151,8 +151,23 @@ margin-right:auto;}
 .section-2{
     padding: 120px 0;
 }
- 
- .features-list {
+
+.icon-section-two{
+    /*пока что пусто*/
+}
+.icon-container-two{
+        border: 1px solid #8e8f99;
+        border-radius: 4px;
+        width: 264px;
+        height: 112px;
+        background: #f4f4fd;
+        display: flex;
+            justify-content: center;
+            align-items: center;
+}
+
+
+  .features-list {
      display: flex;
      gap: 24px;
      list-style: none;
