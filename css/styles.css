@@ -146,12 +146,11 @@ margin-right:auto;}
     background-color: #404bbf;
 }
 
-/*   SECTION 2 -----------------------------------------------------------------------SECTION 2----------------------*/
+/*   SECTION 2 -----------------------------------------------------------------------SECTION 2--------------------------*/
 
 .section-2{
     padding: 120px 0;
 }
-
 .icon-section-two{
     /*пока что пусто*/
 }
@@ -165,8 +164,6 @@ margin-right:auto;}
             justify-content: center;
             align-items: center;
 }
-
-
   .features-list {
      display: flex;
      gap: 24px;
@@ -184,8 +181,7 @@ margin-right:auto;}
         letter-spacing: 0.02em;
         color: #2e2f42;
         margin-bottom: 8px;
-     
-    }
+         }
 .feature-text {
     font-weight: 400;
     font-size: 16px;
@@ -207,19 +203,17 @@ margin-right:auto;}
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-/*-----------------------------------------------------section3------------------------------*/
+/*-----------------------------------------------------section3----------------------------------------------*/
 
 .team {
     background-color: #f4f4fd;
     padding: 120px 0;
     text-align: center;
 }
-
 .social-items{
     display:flex;
     align-items: center;
 }
-
 .team-title {
     margin-bottom: 72px; 
     font-weight: 700;
@@ -234,7 +228,6 @@ margin-right:auto;}
 .team-name {
     margin-bottom: 8px;
 }
-
 .team-info{
     padding-top:32px;
     padding-bottom:32px;
@@ -254,7 +247,6 @@ margin-right:auto;}
         padding: 120px 0;
         text-align: center;
     }
-
 .team-list {
         display: flex;
         justify-content: center;
@@ -264,7 +256,7 @@ margin-right:auto;}
         margin: 0;
         flex-wrap: wrap;
     }
-     
+   
     
 /*--------------------------------------------------------section4----------------------------------------------------*/
   
@@ -273,7 +265,6 @@ margin-right:auto;}
     padding-bottom: 120px;
    
 }
-
 .portfolio {    
     font-size: 36px;
     line-height: 1.11;
