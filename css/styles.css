@@ -192,8 +192,10 @@ margin-right:auto;}
 .section-2{
     padding: 120px 0;
 }
-.icon-section-two{
-    /*пока что пусто*/
+.list-section-two{
+    display: flex;
+        align-items: center;
+        gap:24px;
 }
 .icon-container-two{
         border: 1px solid #8e8f99;
@@ -202,8 +204,9 @@ margin-right:auto;}
         height: 112px;
         background: #f4f4fd;
         display: flex;
-            justify-content: center;
-            align-items: center;
+        justify-content: center;
+        margin: bottom 8px; ;
+        align-items: center;
 }
   .features-list {
      display: flex;
