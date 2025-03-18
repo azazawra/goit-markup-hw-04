@@ -114,6 +114,9 @@ a {text-decoration: none;}
 .nav-link:hover::after,
 .nav-link:focus::after {
     opacity: 1;}
+.nav-link.active {
+    color: #404bbf;
+}
 
 .contacts-link {
     font-size: 16px;
