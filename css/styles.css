@@ -459,3 +459,10 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 .footer-logo {
         display: inline-block
    }
+ .footer-text {
+    font-weight: 500;
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #fff;
+ }  
