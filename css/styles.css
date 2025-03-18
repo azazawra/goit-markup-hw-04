@@ -288,9 +288,10 @@ margin-right:auto;}
     width: 16px;
     height: 16px;
     fill: #f4f4fd;
-
-    
+  
  }
+.socseti {
+   }
 
 .team-title {
     margin-bottom: 72px; 
@@ -438,8 +439,7 @@ margin-right:auto;}
      color: #434455;
      text-decoration: none;
 }
-.contacts-link:hover,
-.contacts-link:focus {color: #404bbf;}
+
 
 .page-footer {
     padding: 100px 0;
@@ -448,9 +448,6 @@ margin-right:auto;}
     align-items: baseline;
     margin-right: 120px
  }
-
-.icon {
-  }
 
 .container-footer-container{
 margin-right: 120px;
@@ -516,7 +513,7 @@ list-style: none;
     transition : background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
-
+.contacts-link:focus {сolor: #404bbf;}
 .social-link-footer:hover {background-color: #31d0aa;}
 .social-link-footer:focus {background-color: #31d0aa;}
 
