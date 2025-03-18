@@ -417,7 +417,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
        
 }
 /*--------------------------------------------------footer----------------------------------------*/
-.contacts {font-style: normal;}     
+     
 .contacts-link {
      display:inline-block;
      font-size: 16px;
@@ -432,9 +432,13 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 .page-footer {
     padding: 100px 0;
     background-color: #2e2f42;
+    
+
 }
 
-
+.container-footer-container{
+display: flex;
+}
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
@@ -491,11 +495,12 @@ list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic bezie(0.4, 0, 0.2, 1);
 
 }
 
-.social-link:hover {background-color: #31d0aa;}
-.social-link:focus {background-color: #31d0aa;}
+.social-link-footer:hover {background-color: #31d0aa;}
+.social-link-footer:focus {background-color: #31d0aa;}
 
 .icon-section-footer {
     fill:  #f4f4fd
