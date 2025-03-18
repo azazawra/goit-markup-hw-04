@@ -51,6 +51,8 @@ a {text-decoration: none;}
     position: relative;
     color: #404bbf
 }
+.logo {
+    color: #404bbf}
 
 .header-logo {
     margin-right: 76px;
