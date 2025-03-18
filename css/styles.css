@@ -279,7 +279,8 @@ margin-right:auto;}
     .social-link:hover{
     background-color: #404bbf;
     } 
-    .social-link:focus {
+    .social-link:focus,
+    .social-link:active {
     background-color: #404bbf;
     }
     
@@ -288,7 +289,7 @@ margin-right:auto;}
     height: 16px;
     fill: #f4f4fd;
 
-    ;
+    
  }
 
 .team-title {
@@ -321,11 +322,6 @@ margin-right:auto;}
     width: calc((100% - 72px) / 4);
     max-width: 264px;
 }
-.team {
-        background-color: #f4f4fd;
-        padding: 120px 0;
-        text-align: center;
-    }
 .team-list {
         display: flex;
         justify-content: center;
