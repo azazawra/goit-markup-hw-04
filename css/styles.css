@@ -529,6 +529,7 @@ list-style: none;
 .footter-social-list{
     width: 40px;
     height: 40px;
+    border-radius: 50%;
 }
 .social-link-footer {
     width: 100%;
