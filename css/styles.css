@@ -427,8 +427,11 @@ margin-right:auto;}
 
 /*--------------------------------------------------footer----------------------------------------*/
   
-.footer-block {
+.footer{
 background-color: #2e2f42;
+padding-top: 100px;
+padding-bottom:100px ;
+padding-left: 156px;
 }
 
 .contacts-link {
@@ -442,10 +445,9 @@ background-color: #2e2f42;
 
 
 .page-footer {
-    
     display: flex;
     align-items: baseline;
- padding-left: 156px;
+
  }
 
 .container-footer-container{
