@@ -128,6 +128,7 @@ a {text-decoration: none;}
 
 .contacts-list {
     display: flex;
+    font-style: normal;
     gap: 40px;
     list-style: none;
     padding: 0;
