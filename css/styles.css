@@ -442,17 +442,12 @@ padding-left: 156px;
      color: #434455;
      text-decoration: none;
 }
-
-
 .page-footer {
-    display: flex;
     align-items: baseline;
-
  }
 
 .container-footer-container{
-margin-right: 120px;
-margin-left: 176px;
+
 }
 .footer-logo {
     display: inline-block;
